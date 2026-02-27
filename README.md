@@ -10,9 +10,9 @@
 
 ---
 
-I build seamless digital experiences across web and mobile — clean design meets solid engineering. Currently exploring **Machine Learning** to make apps smarter and more impactful.
+I build seamless digital experiences across web and mobile, clean design meets solid engineering. Currently exploring **Machine Learning** to make apps smarter and more impactful.
 
-🚀 Working on → [Lumeo](http://www.lumeo.ltd/) — an AR Furniture Marketplace
+🚀 Working on [Lumeo](http://www.lumeo.ltd/) — an AR Furniture Marketplace
 
 ---
 
