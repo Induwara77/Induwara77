@@ -29,12 +29,3 @@ I build seamless digital experiences across web and mobile — clean design meet
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
 </p>
-
----
-
-### 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=induwara77&show_icons=true&hide_border=true&count_private=true&title_color=6C63FF&icon_color=6C63FF&text_color=555&bg_color=ffffff" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=induwara77&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="150" />
-</p>
